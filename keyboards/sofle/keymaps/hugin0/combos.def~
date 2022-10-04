@@ -1,0 +1,2 @@
+//   NAME                  RESULT            CHORD KEYS            
+COMB(ctrl_combo,           KC_LCTL,          KC_F, KC_D)
